@@ -96,8 +96,9 @@ PRODUCT_PACKAGES += \
     FrameworksResOverlayViva \
 	SettingsResOverlayViva \
     SystemUIOverlayViva \
-    TelephonyOverlayViva
-
+    TelephonyOverlayViva \
+	CarrierConfigOverlayViva
+    
 # Product characteristics
 PRODUCT_CHARACTERISTICS := default
 
