@@ -98,6 +98,8 @@ BOARD_HAS_LARGE_FILESYSTEM := true
 TARGET_COPY_OUT_VENDOR := vendor
 TARGET_COPY_OUT_PRODUCT := product
 
+# Prebuilt vendor
+BOARD_PREBUILT_VENDORIMAGE := device/xiaomi/fleur/prebuilts/vendor.img
 
 # Platform
 TARGET_BOARD_PLATFORM := mt6781
