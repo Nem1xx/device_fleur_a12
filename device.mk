@@ -55,6 +55,10 @@ PRODUCT_PACKAGES += \
     checkpoint_gc \
     otapreopt_script
 
+# Charger
+PRODUCT_PACKAGES += \
+    libsuspend
+
 # Display Resolution
 TARGET_SCREEN_HEIGHT := 2400
 TARGET_SCREEN_WIDTH := 1080
