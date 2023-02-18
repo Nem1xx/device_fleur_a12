@@ -305,7 +305,7 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     libshim_beanpod \
     libshim_beanpod.vendor \
-    libshim_vtservice \
+    #libshim_vtservice \
 
 # Seccomp
 PRODUCT_COPY_FILES += \
